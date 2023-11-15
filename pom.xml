@@ -33,6 +33,23 @@
     </plugins>
   </build>
 
+  <dependencies>
+
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.10.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains</groupId>
+      <artifactId>annotations</artifactId>
+      <version>24.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+
+  </dependencies>
+
   <name>Archetype - lab-2-json</name>
   <url>http://maven.apache.org</url>
 </project>

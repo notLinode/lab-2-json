@@ -1,0 +1,45 @@
+{
+    "id": 6958064,
+    "status": "ACTIVE",
+    "name": {
+        "first": "Chadrick",
+        "middle": "Bailey",
+        "last": "Beatty"
+    },
+    "monthlySalary": "873.00",
+    "birthday": "1984-10-17T01:43:46.668Z",
+    "username": "Chadrick-Beatty",
+    "password": "a3shYp4RtKOczzS",
+    "emails": [
+        "Dejah62@gmail.com",
+        "Lorna_Lowe17@example.com"
+    ],
+    "phoneNumber": "684.592.9283 x13888",
+    "location": {
+        "street": "84436 Brooke Avenue",
+        "city": "New Earlineworth",
+        "state": "Florida",
+        "country": "Turkmenistan",
+        "zip": "98029-5397",
+        "coordinates": {
+        "latitude": -39.0855,
+        "longitude": -36.2158
+        }
+    },
+    "website": "https://delicious-ant.org/",
+    "domain": "somber-dimension.net",
+    "job": {
+        "title": "Product Research Agent",
+        "descriptor": "Product",
+        "area": "Research",
+        "type": "Executive",
+        "company": "Hintz, Rutherford and Kerluke"
+    },
+    "creditCard": {
+        "number": "4477-2259-3629-9212",
+        "cvv": "999",
+        "issuer": "diners_club"
+    },
+    "uuid": "4e3596dd-d6f5-4509-ae95-86d7c13b54c5",
+    "objectId": "654f75dde4b0b49c824555d0"
+}
